@@ -1,7 +1,14 @@
-# REINFORCE-Algorithm
+# RL-Algorithm
 
 
-This is an implementation of Monte-Carlo policy gradient (REINFORCE) algorithm for discrete actions Environments
+This is an implementation of Reinforcement Learning algorithms for discrete actions Environments
+
+Implemented Algorithms:
+
+1) Monte-Carlo policy gradient ***(REINFORCE)*** 
+
+2) ***Vanilla Actor-Critic***
+
 
 Tested Env: Cartpole-V1
 

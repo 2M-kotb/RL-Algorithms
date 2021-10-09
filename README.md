@@ -1,4 +1,4 @@
-# RL-Algorithm
+# RL-Algorithms
 
 
 This is an implementation of Reinforcement Learning algorithms for discrete actions Environments

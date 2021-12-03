@@ -246,7 +246,7 @@ if __name__ == '__main__':
 	"""
 	Second: Train with different seeds to evaluate Actor-Critic agent
 	"""
-	Train with 3 different seeds
+	#Train with 3 different seeds
 	seeds = np.random.randint(0,100,size=3)
 	print("start training with {} seeds".format(len(seeds)))
 
